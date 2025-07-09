@@ -7,23 +7,15 @@ Full Stack Developer
 I am passionate about building scalable digital solutions and driving business efficiency through technology. With a strong background in cloud computing, application development, and DevOps, I thrive in fast-paced, collaborative environments. I enjoy solving complex challenges, automating workflows, and delivering products that make a real impact.
 
 🚀 What I Do?
-
-Architect, develop, and deploy end-to-end applications with a focus on scalability and reliability
-
-Implement best practices in DevOps, including CI/CD automation, infrastructure-as-code, and monitoring
-
-Collaborate with cross-functional teams to deliver high-quality products on time
-
-Embrace challenges and work closely with others to achieve ambitious goals
+- Architect, develop, and deploy end-to-end applications with a focus on scalability and reliability
+- Implement best practices in DevOps, including CI/CD automation, infrastructure-as-code, and monitoring
+- Collaborate with cross-functional teams to deliver high-quality products on time
+- Embrace challenges and work closely with others to achieve ambitious goals
 
 🛠 My Skills
-
 Cloud & DevOps: AWS, Google Cloud Platform, Docker, Kubernetes, CI/CD pipelines
-
 Backend: Node.js, Python, Java, RESTful APIs
-
 Version Control: Git (active in open source collaboration and code reviews)
-
 Teamwork: Agile/Scrum, strong communication, results-oriented mindset
 
 * 🌍  I'm based in Indonesia 🇮🇩
