@@ -18,8 +18,9 @@ Backend: Node.js, Python, Java, RESTful APIs
 Version Control: Git (active in open source collaboration and code reviews)
 Teamwork: Agile/Scrum, strong communication, results-oriented mindset
 
-* 🌍  I'm based in Indonesia 🇮🇩
-* ✉️  You can contact me at [samuelzakaria28@gmail.com](mailto:samuelzakaria28@gmail.com)
+* 📍 I'm based in Indonesia 🇮🇩
+* 🌐 You can check my portfolio here! [MASVW PORTFOLIO](https://samuel.deckstd.com/)
+* ✉️ You can contact me at [samuelzakaria28@gmail.com](mailto:samuelzakaria28@gmail.com)
 
 ### Skills
 
